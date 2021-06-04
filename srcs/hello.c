@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "print.h"
+#include "../include/print.h"
 
 int main(){
     printHello();
